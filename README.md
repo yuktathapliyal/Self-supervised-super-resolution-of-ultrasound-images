@@ -8,7 +8,9 @@ All of the required code blocks are included in the notebook and are generally s
 sequentially. This readme explains the flow of the code in the notebook:
 
 Please Note: The path provided fo training and testing sets in the respective notebooks should be replaced as per the location in the local Google Drives.
+
+
 	* Import necessary libraries [Cell 1]
 	* Upload the dataset on which to perform super-resolution. The models were designed to be originally run on medical images, however, good results are acheieved on natural images as well.
-  * Change values of hyper-parameters under Section Run.
+  	* Change values of hyper-parameters under Section Run.
 
