@@ -10,7 +10,7 @@ To run model without KernelGAN estimation, i.e., PM1:
 python main.py --input_path <include directory of input images> --output_path <include directory where you wish to see the predicted images>
 ```
 
-To run model without KernelGAN estimation, i.e., PM2:
+To run model with KernelGAN estimation, i.e., PM2:
 ```
 python main.py --KernelGAN True --input_path <include directory of input images> --output_path <include directory where you wish to see the predicted images> 
 ```
